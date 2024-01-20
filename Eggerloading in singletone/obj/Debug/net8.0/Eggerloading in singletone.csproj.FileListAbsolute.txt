@@ -1,0 +1,14 @@
+C:\Users\AL-FAJR\Desktop\design pattern\Eggerloading in singletone\bin\Debug\net8.0\Eggerloading in singletone.exe
+C:\Users\AL-FAJR\Desktop\design pattern\Eggerloading in singletone\bin\Debug\net8.0\Eggerloading in singletone.deps.json
+C:\Users\AL-FAJR\Desktop\design pattern\Eggerloading in singletone\bin\Debug\net8.0\Eggerloading in singletone.runtimeconfig.json
+C:\Users\AL-FAJR\Desktop\design pattern\Eggerloading in singletone\bin\Debug\net8.0\Eggerloading in singletone.dll
+C:\Users\AL-FAJR\Desktop\design pattern\Eggerloading in singletone\bin\Debug\net8.0\Eggerloading in singletone.pdb
+C:\Users\AL-FAJR\Desktop\design pattern\Eggerloading in singletone\obj\Debug\net8.0\Eggerloading in singletone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL-FAJR\Desktop\design pattern\Eggerloading in singletone\obj\Debug\net8.0\Eggerloading in singletone.AssemblyInfoInputs.cache
+C:\Users\AL-FAJR\Desktop\design pattern\Eggerloading in singletone\obj\Debug\net8.0\Eggerloading in singletone.AssemblyInfo.cs
+C:\Users\AL-FAJR\Desktop\design pattern\Eggerloading in singletone\obj\Debug\net8.0\Eggerloading in singletone.csproj.CoreCompileInputs.cache
+C:\Users\AL-FAJR\Desktop\design pattern\Eggerloading in singletone\obj\Debug\net8.0\Eggerloading in singletone.dll
+C:\Users\AL-FAJR\Desktop\design pattern\Eggerloading in singletone\obj\Debug\net8.0\refint\Eggerloading in singletone.dll
+C:\Users\AL-FAJR\Desktop\design pattern\Eggerloading in singletone\obj\Debug\net8.0\Eggerloading in singletone.pdb
+C:\Users\AL-FAJR\Desktop\design pattern\Eggerloading in singletone\obj\Debug\net8.0\Eggerloading in singletone.genruntimeconfig.cache
+C:\Users\AL-FAJR\Desktop\design pattern\Eggerloading in singletone\obj\Debug\net8.0\ref\Eggerloading in singletone.dll

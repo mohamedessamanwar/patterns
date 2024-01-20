@@ -1,0 +1,14 @@
+C:\Users\AL-FAJR\Desktop\design pattern\singletone\bin\Debug\net8.0\singletone.exe
+C:\Users\AL-FAJR\Desktop\design pattern\singletone\bin\Debug\net8.0\singletone.deps.json
+C:\Users\AL-FAJR\Desktop\design pattern\singletone\bin\Debug\net8.0\singletone.runtimeconfig.json
+C:\Users\AL-FAJR\Desktop\design pattern\singletone\bin\Debug\net8.0\singletone.dll
+C:\Users\AL-FAJR\Desktop\design pattern\singletone\bin\Debug\net8.0\singletone.pdb
+C:\Users\AL-FAJR\Desktop\design pattern\singletone\obj\Debug\net8.0\singletone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL-FAJR\Desktop\design pattern\singletone\obj\Debug\net8.0\singletone.AssemblyInfoInputs.cache
+C:\Users\AL-FAJR\Desktop\design pattern\singletone\obj\Debug\net8.0\singletone.AssemblyInfo.cs
+C:\Users\AL-FAJR\Desktop\design pattern\singletone\obj\Debug\net8.0\singletone.csproj.CoreCompileInputs.cache
+C:\Users\AL-FAJR\Desktop\design pattern\singletone\obj\Debug\net8.0\singletone.dll
+C:\Users\AL-FAJR\Desktop\design pattern\singletone\obj\Debug\net8.0\refint\singletone.dll
+C:\Users\AL-FAJR\Desktop\design pattern\singletone\obj\Debug\net8.0\singletone.pdb
+C:\Users\AL-FAJR\Desktop\design pattern\singletone\obj\Debug\net8.0\singletone.genruntimeconfig.cache
+C:\Users\AL-FAJR\Desktop\design pattern\singletone\obj\Debug\net8.0\ref\singletone.dll
